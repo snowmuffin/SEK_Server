@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>4251141840000</ElapsedGameTime>
-  <SessionName>(Workshop) [AaW] Star System Start 2024-09-09 20-14</SessionName>
+  <SessionName>Star System Start 2024-09-09 20-14</SessionName>
   <SpectatorPosition>
     <Position x="48935.777617248343" y="23540.219709156383" z="-23080.269938554728" />
     <Forward x="-0.830288768" y="2.98023224E-08" z="-0.557333469" />
@@ -129,18 +128,18 @@
     <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>5</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>20</MaxPlayers>
+    <MaxPlayers>12</MaxPlayers>
     <MaxFloatingObjects>40</MaxFloatingObjects>
-    <TotalBotLimit>13</TotalBotLimit>
+    <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>20</MaxBackupSaves>
     <MaxGridSize>50000</MaxGridSize>
-    <MaxBlocksPerPlayer>100000</MaxBlocksPerPlayer>
-    <TotalPCU>7750000</TotalPCU>
-    <PiratePCU>23250000</PiratePCU>
+    <MaxBlocksPerPlayer>70000</MaxBlocksPerPlayer>
+    <TotalPCU>8750000</TotalPCU>
+    <PiratePCU>700000</PiratePCU>
     <MaxFactionsCount>100</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
-    <EnvironmentHostility>SAFE</EnvironmentHostility>
+    <EnvironmentHostility>NORMAL</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
     <EnableCopyPaste>false</EnableCopyPaste>
     <WeaponsEnabled>true</WeaponsEnabled>
@@ -149,7 +148,7 @@
     <CargoShipsEnabled>false</CargoShipsEnabled>
     <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
-    <RespawnShipDelete>false</RespawnShipDelete>
+    <RespawnShipDelete>true</RespawnShipDelete>
     <ResetOwnership>false</ResetOwnership>
     <WelderSpeedMultiplier>5</WelderSpeedMultiplier>
     <GrinderSpeedMultiplier>5</GrinderSpeedMultiplier>
@@ -159,7 +158,7 @@
     <AutoSaveInMinutes>15</AutoSaveInMinutes>
     <EnableSaving>false</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
-    <EnableContainerDrops>false</EnableContainerDrops>
+    <EnableContainerDrops>true</EnableContainerDrops>
     <SpawnShipTimeMultiplier>1</SpawnShipTimeMultiplier>
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
@@ -181,7 +180,7 @@
     <UpdateRespawnDictionary>false</UpdateRespawnDictionary>
     <CanJoinRunning>false</CanJoinRunning>
     <PhysicsIterations>8</PhysicsIterations>
-    <SunRotationIntervalMinutes>119.999992</SunRotationIntervalMinutes>
+    <SunRotationIntervalMinutes>120</SunRotationIntervalMinutes>
     <EnableJetpack>true</EnableJetpack>
     <SpawnWithTools>true</SpawnWithTools>
     <BlueprintShareTimeout>30</BlueprintShareTimeout>
@@ -196,67 +195,14 @@
     <EnableStructuralSimulation>false</EnableStructuralSimulation>
     <MaxActiveFracturePieces>50</MaxActiveFracturePieces>
     <BlockTypeLimits>
-      <dictionary>
-        <item>
-          <Key>Assembler</Key>
-          <Value>24</Value>
-        </item>
-        <item>
-          <Key>Refinery</Key>
-          <Value>24</Value>
-        </item>
-        <item>
-          <Key>Blast Furnace</Key>
-          <Value>24</Value>
-        </item>
-        <item>
-          <Key>Antenna</Key>
-          <Value>30</Value>
-        </item>
-        <item>
-          <Key>Drill</Key>
-          <Value>30</Value>
-        </item>
-        <item>
-          <Key>InteriorTurret</Key>
-          <Value>50</Value>
-        </item>
-        <item>
-          <Key>GatlingTurret</Key>
-          <Value>50</Value>
-        </item>
-        <item>
-          <Key>MissileTurret</Key>
-          <Value>50</Value>
-        </item>
-        <item>
-          <Key>ExtendedPistonBase</Key>
-          <Value>50</Value>
-        </item>
-        <item>
-          <Key>MotorStator</Key>
-          <Value>50</Value>
-        </item>
-        <item>
-          <Key>MotorAdvancedStator</Key>
-          <Value>50</Value>
-        </item>
-        <item>
-          <Key>ShipWelder</Key>
-          <Value>100</Value>
-        </item>
-        <item>
-          <Key>ShipGrinder</Key>
-          <Value>150</Value>
-        </item>
-      </dictionary>
+      <dictionary />
     </BlockTypeLimits>
     <EnableScripterRole>false</EnableScripterRole>
-    <MinDropContainerRespawnTime>120</MinDropContainerRespawnTime>
-    <MaxDropContainerRespawnTime>240</MaxDropContainerRespawnTime>
+    <MinDropContainerRespawnTime>60</MinDropContainerRespawnTime>
+    <MaxDropContainerRespawnTime>120</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>3500</SyncDistance>
+    <SyncDistance>9000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>false</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
@@ -269,14 +215,14 @@
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
-    <PlayerCharacterRemovalThreshold>0</PlayerCharacterRemovalThreshold>
+    <PlayerCharacterRemovalThreshold>15</PlayerCharacterRemovalThreshold>
     <VoxelTrashRemovalEnabled>false</VoxelTrashRemovalEnabled>
     <VoxelPlayerDistanceThreshold>5000</VoxelPlayerDistanceThreshold>
     <VoxelGridDistanceThreshold>5000</VoxelGridDistanceThreshold>
     <VoxelAgeThreshold>24</VoxelAgeThreshold>
     <EnableResearch>false</EnableResearch>
     <EnableGoodBotHints>false</EnableGoodBotHints>
-    <OptimalSpawnDistance>30000</OptimalSpawnDistance>
+    <OptimalSpawnDistance>50000</OptimalSpawnDistance>
     <EnableAutorespawn>false</EnableAutorespawn>
     <EnableBountyContracts>true</EnableBountyContracts>
     <EnableSupergridding>false</EnableSupergridding>
@@ -285,11 +231,11 @@
     <DepositSizeDenominator>60</DepositSizeDenominator>
     <WeatherSystem>true</WeatherSystem>
     <WeatherLightingDamage>false</WeatherLightingDamage>
-    <HarvestRatioMultiplier>0.4</HarvestRatioMultiplier>
-    <TradeFactionsCount>10</TradeFactionsCount>
+    <HarvestRatioMultiplier>1.4</HarvestRatioMultiplier>
+    <TradeFactionsCount>5</TradeFactionsCount>
     <StationsDistanceInnerRadius>1000000</StationsDistanceInnerRadius>
-    <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
-    <StationsDistanceOuterRadiusEnd>7000000</StationsDistanceOuterRadiusEnd>
+    <StationsDistanceOuterRadiusStart>5000000</StationsDistanceOuterRadiusStart>
+    <StationsDistanceOuterRadiusEnd>10000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
@@ -309,7 +255,7 @@
     <EnableTeamBalancing>false</EnableTeamBalancing>
     <CharacterSpeedMultiplier>1</CharacterSpeedMultiplier>
     <EnableRecoil>true</EnableRecoil>
-    <EnvironmentDamageMultiplier>0.7</EnvironmentDamageMultiplier>
+    <EnvironmentDamageMultiplier>1</EnvironmentDamageMultiplier>
     <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
     <BackpackDespawnTimer>5</BackpackDespawnTimer>
     <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
@@ -320,9 +266,9 @@
     <EnableOrca>true</EnableOrca>
     <MaxProductionQueueLength>50</MaxProductionQueueLength>
     <PrefetchShapeRayLengthLimit>15000</PrefetchShapeRayLengthLimit>
-    <EnemyTargetIndicatorDistance>1.2</EnemyTargetIndicatorDistance>
+    <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
-    <MinimumWorldSize>6000</MinimumWorldSize>
+    <MinimumWorldSize>0</MinimumWorldSize>
     <MaxCargoBags>100</MaxCargoBags>
     <TrashCleanerCargoBagsMaxLiveTime>30</TrashCleanerCargoBagsMaxLiveTime>
     <ScrapEnabled>true</ScrapEnabled>
