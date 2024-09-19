@@ -60,4 +60,4 @@
 
 서버 관련 문의 및 커뮤니티 소통을 위해 디스코드 서버에 참여해 주세요:  
 [디스코드 링크](https://discord.gg/WJqeXfv6M9)
-
+[서버 로드맵](https://successful-airboat-f57.notion.site/10575e0bd20580e5b476dd6cb2dcd47e?v=3955b1d0efc74980b8cb51a306cbaf71)
