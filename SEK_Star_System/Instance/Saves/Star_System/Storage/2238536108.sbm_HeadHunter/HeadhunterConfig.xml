@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-16"?>
+<HeadhunterConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FactionBountyPercent>0.01</FactionBountyPercent>
+  <FactionMinBountyPercent>0.1</FactionMinBountyPercent>
+  <FactionMaxBountyPercent>2</FactionMaxBountyPercent>
+  <PlayerBountyPercent>0.01</PlayerBountyPercent>
+  <PlayerMinBountyPercent>0.1</PlayerMinBountyPercent>
+  <PlayerMaxBountyPercent>2</PlayerMaxBountyPercent>
+  <AllowPersonalBounties>true</AllowPersonalBounties>
+  <MinPersonalBounty>5000</MinPersonalBounty>
+  <PersonalBountyFee>0</PersonalBountyFee>
+  <DeathFeeBountyPercent>0.0005</DeathFeeBountyPercent>
+  <TakeDeathFeeFrom>richest</TakeDeathFeeFrom>
+  <EnableDeathMessages>true</EnableDeathMessages>
+  <ConfigListLength>10</ConfigListLength>
+  <DialogListLength>10</DialogListLength>
+  <RefreshBountyInterval>2</RefreshBountyInterval>
+  <DuelsEnabled>true</DuelsEnabled>
+  <BroadcastName>Headhunt</BroadcastName>
+  <BroadcastNameColor>255,220,150</BroadcastNameColor>
+  <Players>
+    <HeadhunterPlayer Name="qwas" Faction="QWA" Balance="39070" DeathCost="5722" DeathCount="295" KillCost="0" KillCount="0" LastUpdate="20.09.24 22:07:36">
+      <DeathList>
+        <HeadhunterReason Reason="Explosion" Cost="19" Timestamp="20.09.24 21:45:19" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="19" Timestamp="20.09.24 20:25:06" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="19" Timestamp="20.09.24 20:22:37" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:27:10" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:26:35" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:25:01" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:24:25" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:19:41" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:19:11" />
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:12:34" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="RaDDo" Faction="RES" Balance="52908993" DeathCost="908948" DeathCount="16" KillCost="2440" KillCount="13" LastUpdate="20.09.24 23:23:11">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="RES.RaDDo" Cost="3301" Timestamp="20.09.24 03:25:49" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="18599" Timestamp="19.09.24 23:16:04" />
+        <HeadhunterReason Reason="Fall" Cost="38707" Timestamp="19.09.24 22:16:51" />
+        <HeadhunterReason Reason="Grid" Player="REAVER.Miranda Survivors" Cost="38726" Timestamp="19.09.24 17:18:09" />
+        <HeadhunterReason Reason="Explosion" Player="CORRUPT.Exiled Engineer" Cost="59288" Timestamp="15.09.24 19:29:19" />
+        <HeadhunterReason Reason="Temperature" Cost="59317" Timestamp="15.09.24 14:11:47" />
+        <HeadhunterReason Reason="Suicide" Player="RES.RaDDo" Cost="89362" Timestamp="11.09.24 22:46:32" />
+        <HeadhunterReason Reason="Suicide" Player="RES.RaDDo" Cost="89407" Timestamp="11.09.24 21:57:42" />
+        <HeadhunterReason Reason="Suicide" Player="RES.RaDDo" Cost="89451" Timestamp="11.09.24 21:54:46" />
+        <HeadhunterReason Reason="Explosion" Player="CORRUPT.Exiled Engineer" Cost="89496" Timestamp="11.09.24 19:53:33" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="178" Timestamp="09.09.24 04:00:52" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="178" Timestamp="09.09.24 03:51:06" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="180" Timestamp="09.09.24 02:51:45" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="182" Timestamp="09.09.24 02:40:51" />
+        <HeadhunterReason Reason="Bullet" Player="OTC.markedroom" Cost="184" Timestamp="09.09.24 02:39:22" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="186" Timestamp="09.09.24 02:20:59" />
+        <HeadhunterReason Reason="Grid" Player="OTC.markedroom" Cost="190" Timestamp="09.09.24 02:19:42" />
+        <HeadhunterReason Reason="Grid" Player="OTC.markedroom" Cost="190" Timestamp="09.09.24 02:19:27" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="192" Timestamp="09.09.24 02:00:03" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="OTC.markedroom" Cost="194" Timestamp="09.09.24 01:46:33" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="op206" Faction="OTC" Balance="9902" DeathCost="157" DeathCount="30" KillCost="52" KillCount="1" LastUpdate="20.09.24 21:55:56">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="OTC.op206" Cost="4" Timestamp="20.09.24 21:55:56" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="4" Timestamp="19.09.24 19:14:30" />
+        <HeadhunterReason Reason="Weld" Player="OTC.op206" Cost="4" Timestamp="19.09.24 01:31:44" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="18.09.24 23:53:14" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="4" Timestamp="18.09.24 23:49:59" />
+        <HeadhunterReason Reason="Bullet" Player="OTC.Joseph_C" Cost="4" Timestamp="15.09.24 11:50:29" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="4" Timestamp="15.09.24 01:28:42" />
+        <HeadhunterReason Reason="Suicide" Player="OTC.op206" Cost="4" Timestamp="15.09.24 01:19:02" />
+        <HeadhunterReason Reason="Suicide" Player="OTC.op206" Cost="4" Timestamp="14.09.24 23:29:40" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="4" Timestamp="11.09.24 19:00:42" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="19.09.24 10:14:42" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="19.09.24 09:52:39" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="19.09.24 09:13:41" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="19.09.24 01:32:09" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="10.09.24 22:19:56" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Maurus" Cost="0" Timestamp="09.09.24 22:19:55" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="08.09.24 23:35:55" />
+        <HeadhunterReason Reason="Bullet" Player="QWA.qwas" Cost="52" Timestamp="08.09.24 21:31:14" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="好的呢" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="06.09.24 19:25:55">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="aLfenbe" Faction="NUB" Balance="9903" DeathCost="97" DeathCount="13" KillCost="0" KillCount="0" LastUpdate="14.09.24 16:45:14">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="NUB.aLfenbe" Cost="4" Timestamp="14.09.24 16:20:12" />
+        <HeadhunterReason Reason="Suicide" Player="NUB.aLfenbe" Cost="4" Timestamp="11.09.24 22:42:38" />
+        <HeadhunterReason Reason="Grid" Player="NUB.aLfenbe" Cost="4" Timestamp="11.09.24 20:43:43" />
+        <HeadhunterReason Reason="Suicide" Player="NUB.aLfenbe" Cost="4" Timestamp="11.09.24 00:38:49" />
+        <HeadhunterReason Reason="Suicide" Player="NUB.aLfenbe" Cost="4" Timestamp="11.09.24 00:36:06" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="10.09.24 23:28:48" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="09.09.24 23:47:12" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="09.09.24 20:07:30" />
+        <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="09.09.24 20:05:33" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="09.09.24 20:04:42" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Maurus" Faction="OTC" Balance="9776" DeathCost="236" DeathCount="15" KillCost="0" KillCount="0" LastUpdate="15.09.24 00:39:37">
+      <DeathList>
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="4" Timestamp="15.09.24 00:40:58" />
+        <HeadhunterReason Reason="Suicide" Player="OTC.Maurus" Cost="4" Timestamp="15.09.24 00:39:37" />
+        <HeadhunterReason Reason="Bullet" Cost="4" Timestamp="10.09.24 21:29:18" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="10.09.24 20:04:46" />
+        <HeadhunterReason Reason="Grid" Cost="4" Timestamp="10.09.24 19:58:58" />
+        <HeadhunterReason Reason="Suicide" Player="OTC.Maurus" Cost="4" Timestamp="09.09.24 22:20:14" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="4" Timestamp="09.09.24 22:19:55" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="09.09.24 01:30:55" />
+        <HeadhunterReason Reason="Suicide" Player="OTC.Maurus" Cost="4" Timestamp="09.09.24 01:24:15" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="09.09.24 01:24:00" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="markedroom" Balance="8813" DeathCost="1191" DeathCount="43" KillCost="0" KillCount="0" LastUpdate="09.09.24 04:15:03">
+      <DeathList>
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="09.09.24 04:15:03" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="RES.RaDDo" Cost="89" Timestamp="09.09.24 04:00:52" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="RES.RaDDo" Cost="89" Timestamp="09.09.24 03:51:06" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="09.09.24 03:40:36" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="09.09.24 03:27:58" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="09.09.24 03:18:09" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="09.09.24 03:04:21" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="RES.RaDDo" Cost="90" Timestamp="09.09.24 02:51:45" />
+        <HeadhunterReason Reason="MpIgnoreDamage" Player="RES.RaDDo" Cost="91" Timestamp="09.09.24 02:40:51" />
+        <HeadhunterReason Reason="Bullet" Player="RES.RaDDo" Cost="92" Timestamp="09.09.24 02:39:22" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="1lllIII11" Faction="NUB" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="08.09.24 19:55:17">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Joseph_C" Faction="OTC" Balance="1547" DeathCost="166" DeathCount="56" KillCost="0" KillCount="0" LastUpdate="20.09.24 23:23:11">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Director" Cost="0" Timestamp="20.09.24 22:51:34" />
+        <HeadhunterReason Reason="Fall" Cost="0" Timestamp="20.09.24 22:42:08" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Director" Cost="0" Timestamp="20.09.24 22:37:46" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="20.09.24 22:24:08" />
+        <HeadhunterReason Reason="Bullet" Player="OTC.Joseph_C" Cost="0" Timestamp="20.09.24 20:50:01" />
+        <HeadhunterReason Reason="Bullet" Player="OTC.Joseph_C" Cost="0" Timestamp="20.09.24 20:14:45" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="20.09.24 18:58:25" />
+        <HeadhunterReason Reason="Bullet" Player="IMBER.The Director" Cost="0" Timestamp="20.09.24 01:20:13" />
+        <HeadhunterReason Reason="Bullet" Player="SCRP.VOID" Cost="0" Timestamp="19.09.24 23:44:54" />
+        <HeadhunterReason Reason="Weld" Player="SCRP.VOID" Cost="0" Timestamp="19.09.24 22:11:15" />
+      </DeathList>
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="0" Timestamp="18.09.24 23:49:59" />
+        <HeadhunterReason Reason="Bullet" Player="OTC.op206" Cost="0" Timestamp="15.09.24 11:50:29" />
+        <HeadhunterReason Reason="Grid" Player="OTC.Maurus" Cost="0" Timestamp="15.09.24 00:40:58" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="0" Timestamp="10.09.24 23:14:20" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="T." Faction="NUB" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="09.09.24 00:39:52">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="Raider Commander" Faction="RAIDER" Balance="0" DeathCost="0" DeathCount="0" KillCost="0" KillCount="4">
+      <DeathList />
+      <KillList>
+        <HeadhunterReason Reason="Grid" Player="OTC.Joseph_C" Cost="0" Timestamp="16.09.24 17:32:11" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="0" Timestamp="10.09.24 22:42:38" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="0" Timestamp="09.09.24 21:16:50" />
+        <HeadhunterReason Reason="Grid" Player="OTC.op206" Cost="0" Timestamp="09.09.24 15:59:06" />
+      </KillList>
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="464749327" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="11.09.24 22:42:03">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="" Balance="0" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="20.09.24 22:24:08">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="疯鱼捅舟" Faction="ZGC" Balance="9947" DeathCost="57" DeathCount="5" KillCost="0" KillCount="0" LastUpdate="16.09.24 00:24:34">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="ZGC.疯鱼捅舟" Cost="4" Timestamp="16.09.24 00:24:34" />
+        <HeadhunterReason Reason="Bullet" Cost="4" Timestamp="16.09.24 00:00:39" />
+        <HeadhunterReason Reason="Suicide" Player="ZGC.疯鱼捅舟" Cost="4" Timestamp="15.09.24 23:39:10" />
+        <HeadhunterReason Reason="Suicide" Player="ZGC.疯鱼捅舟" Cost="4" Timestamp="15.09.24 23:36:08" />
+        <HeadhunterReason Reason="Suicide" Player="ZGC.疯鱼捅舟" Cost="4" Timestamp="15.09.24 23:32:30" />
+        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="4" Timestamp="15.09.24 23:19:19" />
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="15.09.24 17:59:18" />
+        <HeadhunterReason Reason="Fall" Cost="4" Timestamp="15.09.24 17:34:59" />
+        <HeadhunterReason Reason="Suicide" Player="疯鱼捅舟" Cost="4" Timestamp="15.09.24 16:28:14" />
+        <HeadhunterReason Reason="Suicide" Player="疯鱼捅舟" Cost="4" Timestamp="15.09.24 16:16:14" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="斩月" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="16.09.24 01:14:14">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="NyaNyaNyang" Faction="NYA" Balance="9943" DeathCost="57" DeathCount="13" KillCost="0" KillCount="0" LastUpdate="20.09.24 21:55:56">
+      <DeathList>
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.09.24 00:00:17" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="19.09.24 23:42:45" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:29:28" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:27:21" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:25:42" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:24:12" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:22:49" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:21:07" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:19:20" />
+        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:16:49" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+  </Players>
+  <Duels />
+  <ExcludedFactions />
+</HeadhunterConfig>

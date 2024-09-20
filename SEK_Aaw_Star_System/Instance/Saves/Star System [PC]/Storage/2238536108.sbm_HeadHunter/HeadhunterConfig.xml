@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<HeadhunterConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FactionBountyPercent>0.01</FactionBountyPercent>
+  <FactionMinBountyPercent>0.1</FactionMinBountyPercent>
+  <FactionMaxBountyPercent>2</FactionMaxBountyPercent>
+  <PlayerBountyPercent>0.01</PlayerBountyPercent>
+  <PlayerMinBountyPercent>0.1</PlayerMinBountyPercent>
+  <PlayerMaxBountyPercent>2</PlayerMaxBountyPercent>
+  <AllowPersonalBounties>true</AllowPersonalBounties>
+  <MinPersonalBounty>5000</MinPersonalBounty>
+  <PersonalBountyFee>0</PersonalBountyFee>
+  <DeathFeeBountyPercent>0.0005</DeathFeeBountyPercent>
+  <TakeDeathFeeFrom>richest</TakeDeathFeeFrom>
+  <EnableDeathMessages>true</EnableDeathMessages>
+  <ConfigListLength>10</ConfigListLength>
+  <DialogListLength>10</DialogListLength>
+  <RefreshBountyInterval>2</RefreshBountyInterval>
+  <DuelsEnabled>true</DuelsEnabled>
+  <BroadcastName>Headhunt</BroadcastName>
+  <BroadcastNameColor>255,220,150</BroadcastNameColor>
+  <Players>
+    <HeadhunterPlayer Name="Maurus" Faction="NEW" Balance="9991" DeathCost="13" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="20.09.24 19:32:54">
+      <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="Maurus" Cost="4" Timestamp="20.09.24 19:32:54" />
+        <HeadhunterReason Reason="Suicide" Player="Maurus" Cost="4" Timestamp="20.09.24 19:12:14" />
+        <HeadhunterReason Reason="Suicide" Player="Maurus" Cost="5" Timestamp="20.09.24 18:55:42" />
+      </DeathList>
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+    <HeadhunterPlayer Name="qwas" Balance="10000" DeathCost="0" DeathCount="0" KillCost="0" KillCount="0" LastUpdate="20.09.24 19:12:14">
+      <DeathList />
+      <KillList />
+      <BountyList />
+    </HeadhunterPlayer>
+  </Players>
+  <Duels />
+  <ExcludedFactions />
+</HeadhunterConfig>
