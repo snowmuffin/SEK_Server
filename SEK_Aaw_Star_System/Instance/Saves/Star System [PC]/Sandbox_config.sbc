@@ -169,7 +169,7 @@
     <StationsDistanceInnerRadius>1000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
     <StationsDistanceOuterRadiusEnd>7000000</StationsDistanceOuterRadiusEnd>
-    <EconomyTickInSeconds>1200</EconomyTickInSeconds>
+    <EconomyTickInSeconds>3600</EconomyTickInSeconds>
     <NPCGridClaimTimeLimit>120</NPCGridClaimTimeLimit>
     <SimplifiedSimulation>false</SimplifiedSimulation>
     <EnablePcuTrading>true</EnablePcuTrading>
@@ -486,5 +486,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System [PC]</SessionName>
-  <LastSaveTime>2024-09-21T00:53:49.2321647+09:00</LastSaveTime>
+  <LastSaveTime>2024-09-21T19:37:03.2475075+09:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

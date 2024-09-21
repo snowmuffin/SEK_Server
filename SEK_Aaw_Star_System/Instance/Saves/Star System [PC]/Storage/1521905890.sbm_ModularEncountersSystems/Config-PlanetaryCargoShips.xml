@@ -39,13 +39,13 @@
     <string>AnotherDefinitionIdHere</string>
   </DisableBlocksByDefinitionId>
   <ModVersion>2.71.19</ModVersion>
-  <EnableSpawns>true</EnableSpawns>
+  <EnableSpawns>false</EnableSpawns>
   <FirstSpawnTime>300</FirstSpawnTime>
-  <MinSpawnTime>780</MinSpawnTime>
-  <MaxSpawnTime>1020</MaxSpawnTime>
-  <MaxShipsPerArea>2</MaxShipsPerArea>
+  <MinSpawnTime>3600</MinSpawnTime>
+  <MaxSpawnTime>7200</MaxSpawnTime>
+  <MaxShipsPerArea>1</MaxShipsPerArea>
   <AreaSize>20000</AreaSize>
-  <MaxSpawnAttempts>25</MaxSpawnAttempts>
+  <MaxSpawnAttempts>3</MaxSpawnAttempts>
   <PlayerSurfaceAltitude>6000</PlayerSurfaceAltitude>
   <MinPathDistanceFromPlayer>3000</MinPathDistanceFromPlayer>
   <MaxPathDistanceFromPlayer>5000</MaxPathDistanceFromPlayer>
@@ -72,8 +72,8 @@
     <string>AnotherSpawnGroupNameHere</string>
     <string>EtcEtcEtc</string>
   </UseSpecificRandomGroups>
-  <MinWaveSpawnTime>1980</MinWaveSpawnTime>
-  <MaxWaveSpawnTime>3600</MaxWaveSpawnTime>
+  <MinWaveSpawnTime>3600</MinWaveSpawnTime>
+  <MaxWaveSpawnTime>7200</MaxWaveSpawnTime>
   <TotalSpawnEventsPerCluster>6</TotalSpawnEventsPerCluster>
   <TimeBetweenWaveSpawns>8</TimeBetweenWaveSpawns>
   <PlayerClusterDistance>15000</PlayerClusterDistance>

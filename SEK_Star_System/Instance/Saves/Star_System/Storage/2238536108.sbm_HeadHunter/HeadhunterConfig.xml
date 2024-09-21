@@ -19,18 +19,18 @@
   <BroadcastName>Headhunt</BroadcastName>
   <BroadcastNameColor>255,220,150</BroadcastNameColor>
   <Players>
-    <HeadhunterPlayer Name="qwas" Faction="QWA" Balance="39070" DeathCost="5722" DeathCount="295" KillCost="0" KillCount="0" LastUpdate="20.09.24 22:07:36">
+    <HeadhunterPlayer Name="qwas" Faction="QWA" Balance="38880" DeathCost="5988" DeathCount="307" KillCost="0" KillCount="0" LastUpdate="21.09.24 06:42:41">
       <DeathList>
-        <HeadhunterReason Reason="Explosion" Cost="19" Timestamp="20.09.24 21:45:19" />
-        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="19" Timestamp="20.09.24 20:25:06" />
-        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="19" Timestamp="20.09.24 20:22:37" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:27:10" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:26:35" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:25:01" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:24:25" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:19:41" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:19:11" />
-        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="20.09.24 01:12:34" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:44:13" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:43:54" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:43:43" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:42:41" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:41:25" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:40:56" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:40:18" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:39:56" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:36:18" />
+        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:35:59" />
       </DeathList>
       <KillList />
       <BountyList />
@@ -212,8 +212,9 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="NyaNyaNyang" Faction="NYA" Balance="9943" DeathCost="57" DeathCount="13" KillCost="0" KillCount="0" LastUpdate="20.09.24 21:55:56">
+    <HeadhunterPlayer Name="NyaNyaNyang" Faction="NYA" Balance="9939" DeathCost="61" DeathCount="14" KillCost="0" KillCount="0" LastUpdate="21.09.24 06:42:41">
       <DeathList>
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="21.09.24 05:48:49" />
         <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="20.09.24 00:00:17" />
         <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="19.09.24 23:42:45" />
         <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:29:28" />
@@ -223,7 +224,6 @@
         <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:22:49" />
         <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:21:07" />
         <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:19:20" />
-        <HeadhunterReason Reason="Bullet" Player="SPRT.Space Pirates" Cost="4" Timestamp="19.09.24 23:16:49" />
       </DeathList>
       <KillList />
       <BountyList />

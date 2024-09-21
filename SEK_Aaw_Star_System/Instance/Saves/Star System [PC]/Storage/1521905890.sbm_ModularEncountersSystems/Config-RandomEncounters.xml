@@ -106,16 +106,16 @@
   <ModVersion>2.71.19</ModVersion>
   <EnableSpawns>true</EnableSpawns>
   <PlayerSpawnCooldown>6000</PlayerSpawnCooldown>
-  <SpawnTimerTrigger>60</SpawnTimerTrigger>
+  <SpawnTimerTrigger>600</SpawnTimerTrigger>
   <PlayerTravelDistance>15000</PlayerTravelDistance>
-  <MaxShipsPerArea>10</MaxShipsPerArea>
-  <AreaSize>25000</AreaSize>
+  <MaxShipsPerArea>1</MaxShipsPerArea>
+  <AreaSize>25000</AreaSize> 
   <MinSpawnDistanceFromPlayer>8000</MinSpawnDistanceFromPlayer>
   <MaxSpawnDistanceFromPlayer>12000</MaxSpawnDistanceFromPlayer>
   <MinDistanceFromOtherEntities>3000</MinDistanceFromOtherEntities>
   <RemoveVoxelsIfGridRemoved>true</RemoveVoxelsIfGridRemoved>
-  <SpawnAttempts>10</SpawnAttempts>
+  <SpawnAttempts>1</SpawnAttempts>
   <UseMaxSpawnGroupFrequency>false</UseMaxSpawnGroupFrequency>
-  <MaxSpawnGroupFrequency>5</MaxSpawnGroupFrequency>
+  <MaxSpawnGroupFrequency>1</MaxSpawnGroupFrequency>
   <DespawnDistanceFromPlayer>1000</DespawnDistanceFromPlayer>
 </ConfigRandomEncounters>

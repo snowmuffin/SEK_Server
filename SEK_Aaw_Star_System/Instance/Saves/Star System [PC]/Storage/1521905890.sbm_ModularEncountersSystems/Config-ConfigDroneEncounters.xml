@@ -105,8 +105,8 @@
   </DisableBlocksByDefinitionId>
   <ModVersion>2.71.19</ModVersion>
   <EnableSpawns>true</EnableSpawns>
-  <PlayerSpawnCooldown>0</PlayerSpawnCooldown>
-  <SpawnTimerTrigger>30</SpawnTimerTrigger>
-  <MaxSpawnAttempts>5</MaxSpawnAttempts>
+  <PlayerSpawnCooldown>3600</PlayerSpawnCooldown>
+  <SpawnTimerTrigger>600</SpawnTimerTrigger>
+  <MaxSpawnAttempts>1</MaxSpawnAttempts>
   <MinDistanceFromOtherEntities>800</MinDistanceFromOtherEntities>
 </ConfigDroneEncounters>
