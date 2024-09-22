@@ -73,37 +73,9 @@ SEK_Star_System/Instance/Saves/Star_System/Sandbox.sbc
 SEK_Star_System/Instance/Saves/Star_System/Sandbox_config.sbc
 SEK_Star_System/Instance/Wormhole.cfg
 SEK_Star_System/Instance/Wormhole.cfg
-/Server_Base/Content
-/Server_Base/Instance/content
-/Server_Base/Instance/GridBackups
-/Server_Base/Instance/PerformanceImprovements
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup/2024-09-20 181312/SANDBOX_0_0_0_.sbsB5
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup/2024-09-20 181312/SANDBOX_0_0_0_.sbs
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup/2024-09-20 175812/SANDBOX_0_0_0_.sbsB5
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup/2024-09-20 175812/SANDBOX_0_0_0_.sbs
-/Server_Base/Instance/Saves/Star System \[PC\]/Backup
-/Server_Base/Instance/Saves/Star System \[PC\]/Storage
-/Server_Base/Plugins
-/Server_Base/steamcmd/siteserverui
-/Server_Base/userdata
-/Server_Base/steamcmd
-/Server_Base/DedicatedServer64
-/Server_Base/_CommonRedist
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup/2024-09-20 135743/SANDBOX_0_0_0_.sbs
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup/2024-09-20 135743/SANDBOX_0_0_0_.sbsB5
-/Server_Base/Instance/Saves/SEK_Aaw_Star_System/Backup
-Server_Base/Instance/Saves/Star System \[PC\]/SANDBOX_0_0_0_.sbs
-Server_Base/Instance/Saves/Star System \[PC\]/SANDBOX_0_0_0_.sbsB5
-Server_Base/Torch.xml
-Server_Base/Torch.Server.xml
-Server_Base/Torch.API.xml
-/Server_Base/TempContent
-Server_Base/Instance/Saves/SEK_Aaw_Star_System/thumb.jpg
-Server_Base/Instance/Saves/Star System \[PC\]/thumb.jpg
-Server_Base/MahApps.Metro.xml
-Server_Base/Instance/Saves/LastSession.sbl
 SEK_Aaw_Star_System/Instance/Saves/Star System \[PC\]/Storage/2238536108.sbm_HeadHunter/HeadhunterConfig.xml
 SEK_Aaw_Star_System/Instance/Saves/Star System \[PC\]/Storage/2238536108.sbm_HeadHunter/HeadhunterConfig.xml
 SEK_Star_System/Instance/Saves/Star_System/Storage/2238536108.sbm_HeadHunter/HeadhunterConfig.xml
 SEK_Aaw_Star_System/Instance/Saves/Star System \[PC\]/Storage/2238536108.sbm_HeadHunter/HeadhunterConfig.xml
 SEK_Star_System/Instance/Saves/Star_System/Storage/2238536108.sbm_HeadHunter/HeadhunterConfig.xml
+/SEK_Colony1/Content
