@@ -8,13 +8,13 @@
     <AssemblerEfficiencyMultiplier>5</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>5</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>20</MaxPlayers>
+    <MaxPlayers>32</MaxPlayers>
     <MaxFloatingObjects>40</MaxFloatingObjects>
     <TotalBotLimit>13</TotalBotLimit>
     <MaxBackupSaves>20</MaxBackupSaves>
     <MaxGridSize>50000</MaxGridSize>
-    <MaxBlocksPerPlayer>100000</MaxBlocksPerPlayer>
-    <TotalPCU>7750000</TotalPCU>
+    <MaxBlocksPerPlayer>70000</MaxBlocksPerPlayer>
+    <TotalPCU>6400000</TotalPCU>
     <PiratePCU>23250000</PiratePCU>
     <MaxFactionsCount>100</MaxFactionsCount>
     <BlockLimitsEnabled>PER_PLAYER</BlockLimitsEnabled>
@@ -135,7 +135,7 @@
     <MaxDropContainerRespawnTime>240</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>3500</SyncDistance>
+    <SyncDistance>9000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>false</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
@@ -324,26 +324,6 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Peavers">
-      <Name>2776377087.sbm</Name>
-      <PublishedFileId>2776377087</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Local Gps 1.0">
-      <Name>2781829620.sbm</Name>
-      <PublishedFileId>2781829620</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Pork Zone">
-      <Name>2759485949.sbm</Name>
-      <PublishedFileId>2759485949</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Flash GPS">
-      <Name>2788240620.sbm</Name>
-      <PublishedFileId>2788240620</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Abandoned Settlements [v2]">
       <Name>2310821218.sbm</Name>
       <PublishedFileId>2310821218</PublishedFileId>
@@ -434,11 +414,6 @@
       <PublishedFileId>2966429095</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="[EEM] Exploration Enhancement Mod">
-      <Name>531659576.sbm</Name>
-      <PublishedFileId>531659576</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="AQD - Conveyor Expansion">
       <Name>1864380341.sbm</Name>
       <PublishedFileId>1864380341</PublishedFileId>
@@ -447,11 +422,6 @@
     <ModItem FriendlyName="Wormhole">
       <Name>2758536657.sbm</Name>
       <PublishedFileId>2758536657</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Better Respawn Pods | V1.1">
-      <Name>2775597065.sbm</Name>
-      <PublishedFileId>2775597065</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Tiered Tech Blocks">
@@ -484,7 +454,57 @@
       <PublishedFileId>484504816</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Build Colors">
+      <Name>1475392343.sbm</Name>
+      <PublishedFileId>1475392343</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Block Picker">
+      <Name>2965172919.sbm</Name>
+      <PublishedFileId>2965172919</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="P.O.M -  XL Blocks [Slopes Update!]">
+      <Name>2943729620.sbm</Name>
+      <PublishedFileId>2943729620</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Elite Dangerous Style Jump Effect">
+      <Name>2752881305.sbm</Name>
+      <PublishedFileId>2752881305</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Autofill Bottles">
+      <Name>2308085590.sbm</Name>
+      <PublishedFileId>2308085590</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Automatic Ore Pickup">
+      <Name>657749341.sbm</Name>
+      <PublishedFileId>657749341</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Electric Network Info - Touch App">
+      <Name>2917216762.sbm</Name>
+      <PublishedFileId>2917216762</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="TouchScreenAPI">
+      <Name>2668820525.sbm</Name>
+      <PublishedFileId>2668820525</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SE_Upgrade_module_mod">
+      <Name>3341019311.sbm</Name>
+      <PublishedFileId>3341019311</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Leak Finder">
+      <Name>3170315974.sbm</Name>
+      <PublishedFileId>3170315974</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Star System [PC]</SessionName>
-  <LastSaveTime>2024-09-22T11:08:41.5020654+09:00</LastSaveTime>
+  <LastSaveTime>2024-10-07T23:31:02.5956466+09:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

@@ -231,7 +231,7 @@
     <MaxDropContainerRespawnTime>240</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>3500</SyncDistance>
+    <SyncDistance>9000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>false</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>

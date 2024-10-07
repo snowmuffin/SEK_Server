@@ -126,7 +126,7 @@
   <UseSpeedOverride>false</UseSpeedOverride>
   <SpeedOverride>20</SpeedOverride>
   <UseMaxSpawnGroupFrequency>false</UseMaxSpawnGroupFrequency>
-  <MaxSpawnGroupFrequency>2</MaxSpawnGroupFrequency>
+  <MaxSpawnGroupFrequency>5</MaxSpawnGroupFrequency>
   <EnableWaveSpawner>false</EnableWaveSpawner>
   <UseSpecificRandomGroups>
     <string>SomeSpawnGroupNameHere</string>
@@ -135,7 +135,7 @@
   </UseSpecificRandomGroups>
   <MinWaveSpawnTime>1980</MinWaveSpawnTime>
   <MaxWaveSpawnTime>3600</MaxWaveSpawnTime>
-  <TotalSpawnEventsPerCluster>3</TotalSpawnEventsPerCluster>
+  <TotalSpawnEventsPerCluster>6</TotalSpawnEventsPerCluster>
   <TimeBetweenWaveSpawns>8</TimeBetweenWaveSpawns>
   <PlayerClusterDistance>15000</PlayerClusterDistance>
 </ConfigSpaceCargoShips>

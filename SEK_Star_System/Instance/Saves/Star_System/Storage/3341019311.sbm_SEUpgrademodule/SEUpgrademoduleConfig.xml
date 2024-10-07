@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyUpConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SmallGridBasic Chance="0.25" MinAmount="3" MaxAmount="12" />
+  <LargeGridBasic Chance="0.2" MinAmount="6" MaxAmount="25" />
+  <SmallGridAdvanced Chance="0.2" MinAmount="2" MaxAmount="6" />
+  <LargeGridAdvanced Chance="0.2" MinAmount="2" MaxAmount="6" />
+  <ExcludeGrids>
+    <string>respawn</string>
+  </ExcludeGrids>
+  <DisableGrindSubgridDamage>true</DisableGrindSubgridDamage>
+</MyUpConfig>

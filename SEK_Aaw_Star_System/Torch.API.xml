@@ -717,6 +717,11 @@
             Event raised when <see cref="P:Torch.API.ITorchBase.GameState"/> changes.
             </summary>
         </member>
+        <member name="P:Torch.API.ITorchBase.IsRestartPending">
+            <summary>
+            Has a restart been requested?
+            </summary>
+        </member>
         <member name="T:Torch.API.ITorchServer">
             <summary>
             API for the Torch server.
