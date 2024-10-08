@@ -19,8 +19,9 @@
   <BroadcastName>Headhunt</BroadcastName>
   <BroadcastNameColor>255,220,150</BroadcastNameColor>
   <Players>
-    <HeadhunterPlayer Name="qwas" Faction="QWA" Balance="38671" DeathCost="6121" DeathCount="308" KillCost="0" KillCount="0" LastUpdate="06.10.24 19:26:17">
+    <HeadhunterPlayer Name="qwas" Faction="QWA" Balance="38671" DeathCost="6140" DeathCount="308" KillCost="0" KillCount="0" LastUpdate="08.10.24 13:55:59">
       <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="08.10.24 13:55:59" />
         <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="06.10.24 15:37:25" />
         <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="03.10.24 16:07:36" />
         <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="02.10.24 23:12:22" />
@@ -30,12 +31,11 @@
         <HeadhunterReason Reason="Suicide" Player="QWA.qwas" Cost="19" Timestamp="21.09.24 20:55:11" />
         <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:44:13" />
         <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:43:54" />
-        <HeadhunterReason Reason="Bullet" Player="CIVL.[CIVL] Svjetlana Kantorovich" Cost="19" Timestamp="21.09.24 06:43:43" />
       </DeathList>
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="RaDDo" Faction="RES" Balance="7336790665" DeathCost="27853417" DeathCount="23" KillCost="2496" KillCount="14" LastUpdate="07.10.24 23:21:47">
+    <HeadhunterPlayer Name="RaDDo" Faction="RES" Balance="7336790665" DeathCost="27853417" DeathCount="23" KillCost="2496" KillCount="14" LastUpdate="08.10.24 04:08:42">
       <DeathList>
         <HeadhunterReason Reason="Suicide" Player="RES.RaDDo" Cost="3561497" Timestamp="06.10.24 21:10:16" />
         <HeadhunterReason Reason="Suicide" Player="RES.RaDDo" Cost="3563279" Timestamp="06.10.24 14:05:01" />
@@ -214,7 +214,7 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="NyaNyaNyang" Faction="NYA" Balance="7978258" DeathCost="234500" DeathCount="49" KillCost="0" KillCount="0" LastUpdate="06.10.24 15:37:25">
+    <HeadhunterPlayer Name="NyaNyaNyang" Faction="NYA" Balance="17352885" DeathCost="234500" DeathCount="49" KillCost="0" KillCount="0" LastUpdate="08.10.24 01:05:44">
       <DeathList>
         <HeadhunterReason Reason="Bullet" Player="지구인.cookmedic" Cost="37200" Timestamp="06.10.24 01:36:27" />
         <HeadhunterReason Reason="Bullet" Player="지구인.cookmedic" Cost="37200" Timestamp="06.10.24 01:34:27" />
@@ -230,7 +230,7 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="SerGuay" Faction="지구인" Balance="0" DeathCost="41689" DeathCount="21" KillCost="0" KillCount="0" LastUpdate="07.10.24 23:21:47">
+    <HeadhunterPlayer Name="SerGuay" Faction="지구인" Balance="0" DeathCost="41689" DeathCount="21" KillCost="0" KillCount="0" LastUpdate="08.10.24 01:05:44">
       <DeathList>
         <HeadhunterReason Reason="Suicide" Player="지구인.SerGuay" Cost="8506" Timestamp="02.10.24 20:34:03" />
         <HeadhunterReason Reason="Suicide" Player="지구인.SerGuay" Cost="8510" Timestamp="02.10.24 20:25:01" />
@@ -255,8 +255,11 @@
       </KillList>
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="cookmedic" Faction="지구인" Balance="0" DeathCost="120272" DeathCount="71" KillCost="74400" KillCount="2" LastUpdate="07.10.24 23:21:47">
+    <HeadhunterPlayer Name="cookmedic" Faction="지구인" Balance="0" DeathCost="186035" DeathCount="73" KillCost="74400" KillCount="2" LastUpdate="08.10.24 05:04:32">
       <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="지구인.cookmedic" Cost="24983" Timestamp="08.10.24 05:04:32" />
+        <HeadhunterReason Reason="Explosion" Cost="20385" Timestamp="08.10.24 04:08:42" />
+        <HeadhunterReason Reason="Grid" Player="IMBER.The Director" Cost="20395" Timestamp="08.10.24 02:46:23" />
         <HeadhunterReason Reason="Fall" Cost="8500" Timestamp="07.10.24 03:46:11" />
         <HeadhunterReason Reason="Bullet" Player="IMBER.The Director" Cost="8646" Timestamp="07.10.24 02:53:23" />
         <HeadhunterReason Reason="Fall" Cost="8650" Timestamp="07.10.24 02:47:02" />
@@ -264,9 +267,6 @@
         <HeadhunterReason Reason="Suicide" Player="지구인.cookmedic" Cost="8621" Timestamp="06.10.24 01:15:59" />
         <HeadhunterReason Reason="Suicide" Player="지구인.cookmedic" Cost="8626" Timestamp="06.10.24 01:05:19" />
         <HeadhunterReason Reason="Grid" Player="지구인.cookmedic" Cost="12969" Timestamp="03.10.24 23:43:32" />
-        <HeadhunterReason Reason="Suicide" Player="지구인.cookmedic" Cost="4996" Timestamp="03.10.24 11:45:11" />
-        <HeadhunterReason Reason="Bullet" Player="REAVER.Miranda Survivors" Cost="25" Timestamp="01.10.24 02:49:47" />
-        <HeadhunterReason Reason="Explosion" Player="REAVER.Miranda Survivors" Cost="25" Timestamp="01.10.24 02:48:04" />
       </DeathList>
       <KillList>
         <HeadhunterReason Reason="Bullet" Player="NYA.NyaNyaNyang" Cost="37200" Timestamp="06.10.24 01:36:27" />
@@ -364,8 +364,10 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="깜냥아빠" Faction="지구인" Balance="9991" DeathCost="23624" DeathCount="2" KillCost="0" KillCount="0" LastUpdate="07.10.24 23:21:47">
+    <HeadhunterPlayer Name="깜냥아빠" Faction="지구인" Balance="9991" DeathCost="32846" DeathCount="3" KillCost="0" KillCount="0" LastUpdate="08.10.24 01:05:44">
       <DeathList>
+        <HeadhunterReason Reason="Suicide" Player="지구인.깜냥아빠" Cost="4610" Timestamp="08.10.24 01:05:44" />
+        <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4612" Timestamp="08.10.24 00:59:00" />
         <HeadhunterReason Reason="Temperature" Cost="15120" Timestamp="07.10.24 23:21:47" />
         <HeadhunterReason Reason="Fall" Cost="8495" Timestamp="07.10.24 23:03:10" />
         <HeadhunterReason Reason="Suicide" Player="지구인.깜냥아빠" Cost="4" Timestamp="25.09.24 20:20:37" />

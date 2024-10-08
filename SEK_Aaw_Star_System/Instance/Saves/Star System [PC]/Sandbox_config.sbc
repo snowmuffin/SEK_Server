@@ -78,23 +78,143 @@
       <dictionary>
         <item>
           <Key>Assembler</Key>
-          <Value>24</Value>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>Assembler2x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>Assembler4x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>AssemblerIndustrial</Key>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>AssemblerIndustrial2x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>AssemblerIndustrial4x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>AssemblerIndustrial8x</Key>
+          <Value>3</Value>
         </item>
         <item>
           <Key>Refinery</Key>
-          <Value>24</Value>
+          <Value>10</Value>
         </item>
         <item>
-          <Key>Blast Furnace</Key>
-          <Value>24</Value>
+          <Key>Refinery2x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>Refinery4x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>Refinery8x</Key>
+          <Value>3</Value>
+        </item>
+        <item>
+          <Key>RefineryIndustrial</Key>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>RefineryIndustrial2x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>RefineryIndustrial4x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>RefineryIndustrial8x</Key>
+          <Value>3</Value>
+        </item>
+        <item>
+          <Key>OxygenGenerator</Key>
+          <Value>20</Value>
+        </item>
+        <item>
+          <Key>OxygenGenerator2x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>OxygenGenerator4x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>OxygenGenerator8x</Key>
+          <Value>3</Value>
         </item>
         <item>
           <Key>Antenna</Key>
-          <Value>30</Value>
+          <Value>10</Value>
         </item>
         <item>
           <Key>Drill</Key>
-          <Value>30</Value>
+          <Value>20</Value>
+        </item>
+        <item>
+          <Key>Drill2x</Key>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>Drill4x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>Drill8x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>ShipWelder</Key>
+          <Value>20</Value>
+        </item>
+        <item>
+          <Key>ShipWelder2x</Key>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>ShipWelder4x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>ShipWelder8x</Key>
+          <Value>3</Value>
+        </item>
+        <item>
+          <Key>ShipGrinder</Key>
+          <Value>20</Value>
+        </item>
+        <item>
+          <Key>ShipGrinder2x</Key>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>ShipGrinder4x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>OxygenFarm</Key>
+          <Value>10</Value>
+        </item>
+        <item>
+          <Key>OxygenFarm2x</Key>
+          <Value>7</Value>
+        </item>
+        <item>
+          <Key>OxygenFarm4x</Key>
+          <Value>5</Value>
+        </item>
+        <item>
+          <Key>OxygenFarm8x</Key>
+          <Value>3</Value>
         </item>
         <item>
           <Key>InteriorTurret</Key>
@@ -119,14 +239,6 @@
         <item>
           <Key>MotorAdvancedStator</Key>
           <Value>50</Value>
-        </item>
-        <item>
-          <Key>ShipWelder</Key>
-          <Value>100</Value>
-        </item>
-        <item>
-          <Key>ShipGrinder</Key>
-          <Value>150</Value>
         </item>
       </dictionary>
     </BlockTypeLimits>
@@ -506,5 +618,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System [PC]</SessionName>
-  <LastSaveTime>2024-10-07T23:31:02.5956466+09:00</LastSaveTime>
+  <LastSaveTime>2024-10-08T14:42:29.690645+09:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

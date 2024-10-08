@@ -19,7 +19,7 @@
   <BroadcastName>Headhunt</BroadcastName>
   <BroadcastNameColor>255,220,150</BroadcastNameColor>
   <Players>
-    <HeadhunterPlayer Name="Maurus" Faction="NEW" Balance="9931" DeathCost="69" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="07.10.24 21:20:25">
+    <HeadhunterPlayer Name="Maurus" Faction="NEW" Balance="9931" DeathCost="69" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="08.10.24 00:27:38">
       <DeathList>
         <HeadhunterReason Reason="Suicide" Player="NEW.Maurus" Cost="4" Timestamp="04.10.24 20:44:34" />
         <HeadhunterReason Reason="Suicide" Player="NEW.Maurus" Cost="4" Timestamp="04.10.24 20:28:25" />
@@ -61,7 +61,7 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="aLfenbe" Faction="NEW" Balance="9951" DeathCost="73" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="07.10.24 20:12:48">
+    <HeadhunterPlayer Name="aLfenbe" Faction="NEW" Balance="9947" DeathCost="73" DeathCount="11" KillCost="0" KillCount="0" LastUpdate="08.10.24 00:27:38">
       <DeathList>
         <HeadhunterReason Reason="Fall" Cost="4" Timestamp="07.10.24 20:12:48" />
         <HeadhunterReason Reason="Fall" Cost="4" Timestamp="06.10.24 20:24:23" />
@@ -77,8 +77,9 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="op206" Faction="NEW" Balance="9883" DeathCost="125" DeathCount="23" KillCost="0" KillCount="0" LastUpdate="07.10.24 20:58:47">
+    <HeadhunterPlayer Name="op206" Faction="NEW" Balance="9883" DeathCost="129" DeathCount="24" KillCost="0" KillCount="0" LastUpdate="08.10.24 00:27:38">
       <DeathList>
+        <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="08.10.24 00:27:38" />
         <HeadhunterReason Reason="Bullet" Player="INCON.Contractors" Cost="4" Timestamp="06.10.24 11:09:34" />
         <HeadhunterReason Reason="Temperature" Cost="4" Timestamp="05.10.24 18:22:54" />
         <HeadhunterReason Reason="Fall" Cost="4" Timestamp="05.10.24 18:05:10" />
@@ -88,7 +89,6 @@
         <HeadhunterReason Reason="LowPressure" Cost="4" Timestamp="03.10.24 01:00:58" />
         <HeadhunterReason Reason="Suicide" Player="NEW.op206" Cost="4" Timestamp="03.10.24 00:32:12" />
         <HeadhunterReason Reason="Fall" Cost="4" Timestamp="02.10.24 23:52:23" />
-        <HeadhunterReason Reason="Bullet" Player="ASSERT.Thumbs" Cost="4" Timestamp="01.10.24 01:10:46" />
       </DeathList>
       <KillList />
       <BountyList />
@@ -128,7 +128,7 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="은토" Faction="SVT" Balance="55393" DeathCost="608" DeathCount="29" KillCost="0" KillCount="0" LastUpdate="07.10.24 21:20:25">
+    <HeadhunterPlayer Name="은토" Faction="SVT" Balance="55393" DeathCost="608" DeathCount="29" KillCost="0" KillCount="0" LastUpdate="08.10.24 00:27:38">
       <DeathList>
         <HeadhunterReason Reason="Grid" Player="SVT.은토" Cost="27" Timestamp="06.10.24 18:45:51" />
         <HeadhunterReason Reason="Grid" Player="SVT.은토" Cost="27" Timestamp="05.10.24 21:28:55" />
@@ -183,7 +183,7 @@
       <KillList />
       <BountyList />
     </HeadhunterPlayer>
-    <HeadhunterPlayer Name="jhcho1234" Faction="NEW" Balance="9991" DeathCost="13" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="07.10.24 21:20:25">
+    <HeadhunterPlayer Name="jhcho1234" Faction="NEW" Balance="9991" DeathCost="13" DeathCount="1" KillCost="0" KillCount="0" LastUpdate="08.10.24 00:27:38">
       <DeathList>
         <HeadhunterReason Reason="Grid" Player="INCON.Contractors" Cost="4" Timestamp="07.10.24 00:11:20" />
         <HeadhunterReason Reason="Weld" Player="NEW.Maurus" Cost="4" Timestamp="06.10.24 20:35:52" />
