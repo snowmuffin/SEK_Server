@@ -68,7 +68,7 @@
 # SEK_Server 기여자
 
 - **Nicola**  
-  SEK_SERVER의 웹 컨텐츠는 Nicola님이 제공해 주신 프론트엔드를 사용했습니다.
+  SEK_SERVER의 웹 컨텐츠는 Nicola님이 제공해 주신 프론트엔드를 사용했습니다.그 외에도 디코 편의성 개선을 위한 봇을 제작 해주셨습니다.
 
 - **Nya-Nya-Nyang**  
   Upgrade_module 모드의 아이콘을 제공해 주셨습니다.
