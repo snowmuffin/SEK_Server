@@ -1,4 +1,4 @@
-[English](README.ew.md)
+[English](README.es.md)
 # 스페이스 엔지니어 SEK 서버
 
 ## 개요
