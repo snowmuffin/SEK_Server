@@ -20,14 +20,14 @@ This server consists of four main servers, each with its own unique characterist
 - **PCU Limit**: Adjusted flexibly by the server owner based on server status and active user count (currently 45,000). 
   - This server encompasses the entire world.  
   - The other servers are included within this server.  
-  - Terrain resets upon server restart.
+  - Voxel resets upon server restart.
 
 ### **SEK_Safe Boundary**
 - **Coordinates**: 0,0,0  
 - **Range**: Radius of 500 km  
 - **PCU Limit**: Adjusted flexibly by the server owner based on server status and active user count (currently 200,000). 
   - A stable beginner server that includes EarthLike planet and moon.  
-  - No terrain resets.  
+  - No voxel resets.  
   - Random encounter option is turned off.
 
 ### **SEK_CORE**
@@ -40,7 +40,7 @@ This server consists of four main servers, each with its own unique characterist
   - Scores are saved in a separate database and can be viewed on the website.  
   - Items drop into the online inventory when battling NPCs. Special modules can only be obtained this way currently.  
   - Items dropped into the online inventory can be downloaded on other servers. This server is designed to allow players to enjoy combat without the burden of returning or collecting grids.  
-  - Terrain resets upon server restart.
+  - Voxel resets upon server restart.
 
 ### **SEK_Vanguard Realm**
 - **Coordinates**: 131,072.50, 131,072.50, 5,731,072.50  
@@ -48,7 +48,7 @@ This server consists of four main servers, each with its own unique characterist
 - **PCU Limit**: Adjusted flexibly by the server owner based on server status and active user count (currently 60,000). 
 - **Resource Multiplier**: High multiplier for Uranium/Platinum/Silver/Gold  
 - **Features**: Appearance of NPCs reinforced with special weapon blocks that players cannot construct  
-- Terrain resets upon server restart.
+- Voxel resets upon server restart.
 
 ## Common Features
 
