@@ -1,3 +1,4 @@
+[한국어](README.ko.md)
 # Space Engineers SEK Server
 
 ## Overview
